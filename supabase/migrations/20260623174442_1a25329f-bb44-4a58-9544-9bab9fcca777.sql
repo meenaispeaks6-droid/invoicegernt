@@ -1,0 +1,1 @@
+ALTER TABLE public.user_settings ADD COLUMN IF NOT EXISTS sample_data_seeded boolean NOT NULL DEFAULT false;
