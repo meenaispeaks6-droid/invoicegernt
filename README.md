@@ -1,21 +1,31 @@
-# Invoice Generator
+# 🧾 InvoiceGen — Invoice Generator for Freelancers
 
-Dashboard.png
-Invoices.png
-Home.png
-Clients.png
-Reports.png Create a pixel-perfect replica of the uploaded screens, they belong to a modern, intuitive invoice generator web app for freelancers and small businesses. 
-Recreate layout, spacing, fonts (Anton for headings and Inter), colors, and element sizes exactly.
-Use semantic components and Tailwind-style layout classes (flex, grid, gap-4, justify-between).
-Desktop is the source breakpoint; scale cleanly to tablet and mobile.
+A modern, intuitive invoice generator for freelancers and small businesses. Create, manage, and track invoices with a clean dashboard, client management, and reports.
 
+**Live app:** https://billmake.meenai.in
 
-**Live app**: https://billmake.meenai.in
+## Features
 
+- 📊 Dashboard with revenue overview
+- 🧾 Create & manage invoices
+- 👥 Client management
+- 📈 Reports & insights
+- 📱 Responsive — desktop, tablet & mobile
+
+## Tech Stack
+
+- React + Vite + TypeScript
+- Tailwind CSS
+
+## Development
 
 ```sh
-git clone <this-repository-url>
-cd <repository-name>
+git clone https://github.com/meenaispeaks6-droid/invoicegernt.git
+cd invoicegernt
 npm i
 npm run dev
 ```
+
+## License
+
+MIT
